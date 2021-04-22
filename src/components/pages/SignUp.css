@@ -1,0 +1,27 @@
+h1{
+    color: 03045e;
+    font-family:'Times New Roman', Times, serif;
+    margin: 50px;
+}
+Label{
+    text-align: right;
+    color: teal;
+    margin: 10px;
+    flex-direction:column;
+    padding: 20px;
+    line-height: 28px;
+}
+.f1{
+
+    padding: 5px;
+text-align: center;
+justify-content: space-between;
+align-items: center;
+flex-direction:column;
+}
+
+Button{
+    background-color: teal;
+    size:10rem;
+}
+

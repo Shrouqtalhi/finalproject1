@@ -1,0 +1,30 @@
+export const SliderData = [
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247fa9175a0156d5a90377/master/w_800%2Cc_limit/Machu-Picchu-GettyImages-109401484.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247f4044d6de730ff9430f/master/w_800%2Cc_limit/Greenland-glaciers-GettyImages-526296696.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247fd071edb005141a017b/master/w_800%2Cc_limit/Cappadocia-GettyImages-733699331.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247f70a0092d40e142e9d5/master/w_800%2Cc_limit/Great-Barrier-Reef-GettyImages-564064149.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247f2d59c4100480847c78/master/w_800%2Cc_limit/Mt-Everest-GettyImages-523410951.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247fde44d6de730ff94313/master/w_800%2Cc_limit/Northern-Lights-Finland-GettyImages-665473635.jpg'
+    },
+    {
+        image:
+            'https://media.cntraveler.com/photos/5a247f8971edb005141a0177/master/w_800%2Cc_limit/Iguazu-National-Park-GettyImages-621615460.jpg'
+    }
+];
